@@ -1,3 +1,5 @@
+[![An image of @sushmarhiremath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushmarhiremath)](https://holopin.io/@sushmarhiremath)
+
 # Hi there 👋 I'm Sushma!
 
 🚀 Passionate about **Data Science, Machine Learning, and AI**, with experience applying ML to domains like **astronomy, computer vision, and business analytics**.  
